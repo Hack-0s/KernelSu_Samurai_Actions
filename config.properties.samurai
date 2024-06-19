@@ -1,5 +1,5 @@
 KERNEL_SOURCE=https://github.com/HyperTeam/android_kernel_realme_sm8150.git
-KERNEL_SOURCE_BRANCH=14
+KERNEL_SOURCE_BRANCH=13
 KERNEL_CONFIG=samurai_defconfig
 KERNEL_IMAGE_NAME=Image.gz
 ARCH=arm64
